@@ -1,0 +1,8 @@
+{
+  "domain": "sodeb_custom",
+  "name": "sodeb_custom_test",
+  "codeowners": [],
+  "documentation": "https://www.home-assistant.io/integrations/sodeb_custom",
+  "iot_class": "local_polling",
+  "config_flow": true
+}
